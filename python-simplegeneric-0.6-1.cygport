@@ -1,0 +1,4 @@
+inherit distutils
+
+
+SRC_URI=${SRC_URI%.tar.gz}.zip
