@@ -2,7 +2,7 @@ inherit python-wheel
 
 NAME="python-simplegeneric"
 VERSION=0.8.1
-RELEASE=3
+RELEASE=4
 CATEGORY="Python"
 SUMMARY="Python simple generic functions module"
 DESCRIPTION="The simplegeneric module lets you define simple single-dispatch
